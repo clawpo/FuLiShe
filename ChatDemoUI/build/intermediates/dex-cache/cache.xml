@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c3378ff633c234812d3bd67843755e917d81cbc9">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\instant-run_afb55950ff76e4a24b1a591043a7e3bde0130347.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\google-play-services_a610b5e75b4157dafae0d36241855ea7919f7c55.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_4bafdb9ef509e2de784712f8d9aceeac45483eda.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_846aa2a960c992eb9d96277a2b217c8962315017.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0_fcf6a8f3856b3c8660f593777f735a6b66993992.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\src\main\jniLibs\jackson-core-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.11_e424e1d9160f7dfd096e2c1f95f19f8cd440340c.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3a59a346dce50a0d8fc3a75c34538dae6b2d862">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\classes_8b8c1d55dec181dba2ba5ffc34e82ceb4bdc21d6.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0d200867b25ff9f03ba3d84a5a360bdef1e979e2.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\easemobchat_2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77e3648d4d9fac24aa85a8d7f9bd45d05d19ab22">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.5_2f9b178ccfa3635f4ed7a9f5b406f9e0c29fc6d4.jar" />
+    </item>
+    <item
+        jar="E:\360Downloads\Software\as_\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_0e2762a143b46ed4819dc08da931673543212dc2.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\locSDK_3.3_06cee18170ee11427ccfd5c151acd8ded9fc130f.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_9a92e14f53686b6ef1cb04e65228ec9d4e9fd31c.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\Parse-1.9.4_c7aa5436da758c11c646450350c292b2b230a142.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_4f9c1f1050358ae6055b78649e06c887a08e6df6.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\src\main\jniLibs\jackson-mapper-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45d70862fa016993193075a1e8e32a01dcf438e8">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.11_97c91c9c32eaf38606752ddda96e6494b98bbb10.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01298c1280e97b7367a55252f66a8f19fd494d35">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_19_f7d309c43567ca5bd5a051d1061ace03e1a2b6b5.jar" />
+    </item>
+    <item
+        jar="D:\chensaitao\superwechat-zip\ChatDemoUI\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_5d8942eedfc2e522faac89b0ececb9fb8fe7d5a4.jar" />
+    </item>
+
+</items>

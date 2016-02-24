@@ -1,0 +1,16 @@
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\UserProfileManager$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\utils\UserUtils$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\fragment\ContactlistFragment$6$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\SuperWeChatApplication$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\GroupDetailsActivity$DeleteGroupMemberTask$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\utils\NetUtil$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\GroupDetailsActivity$GroupMembersAdapter$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\MainActivity$MyGroupChangeListener$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\fragment\ChatAllHistoryFragment$1$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\LoginActivity$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\MainActivity$DeleteContactsTask$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\adapter\ChatAllHistoryAdapter$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\DemoHXSDKHelper$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\GroupDetailsActivity$override.class
+CHANGED,D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\ucai\superwechat\activity\GroupDetailsActivity$AddGroupMembersTask$override.class

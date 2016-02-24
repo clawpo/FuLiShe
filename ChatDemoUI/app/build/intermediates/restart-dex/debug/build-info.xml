@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    density="xhdpi"
+    format="4"
+    timestamp="81611944757000" >
+
+    <task
+        name="javac"
+        duration="13371" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1188" />
+    <task
+        name="verifier"
+        duration="220" />
+
+    <artifact
+        location="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="81611944757000" >
+        <artifact
+            location="D:\chensaitao\superwechat-zip\ChatDemoUI\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

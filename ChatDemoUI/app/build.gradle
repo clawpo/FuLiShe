@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+//        clawpo {
+//            keyAlias 'clawpo'
+//            keyPassword 'tao0312.163'
+//            storeFile file('/Users/clawpo/AndroidStudioProjects/key/android.keystore')
+//            storePassword 'tao0312.163'
+//        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "cn.ucai.superwechat"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude'META-INF/DEPENDENCIES.txt'
+        exclude'META-INF/LICENSE.txt'
+        exclude'META-INF/NOTICE.txt'
+        exclude'META-INF/NOTICE'
+        exclude'META-INF/LICENSE'
+        exclude'META-INF/DEPENDENCIES'
+        exclude'META-INF/notice.txt'
+        exclude'META-INF/license.txt'
+        exclude'META-INF/dependencies.txt'
+        exclude'META-INF/LGPL2.1'
+        exclude'META-INF/ASL2.0'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.1.1'
+    compile files('libs/MiPush_SDK_Client_2_2_19.jar')
+    compile files('libs/Parse-1.9.4.jar')
+    compile files('libs/baidumapapi_v3_2_0.jar')
+    compile files('libs/bolts-android-1.2.0.jar')
+    compile files('libs/easemobchat_2.2.5.jar')
+    compile files('libs/google-play-services.jar')
+    compile files('libs/locSDK_3.3.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/picasso-2.4.0.jar')
+    compile files('libs/umeng-analytics-v5.2.4.jar')
+    compile files('src/main/jniLibs/jackson-core-asl-1.9.11.jar')
+    compile files('src/main/jniLibs/jackson-mapper-asl-1.9.11.jar')
+}
